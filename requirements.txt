@@ -1,0 +1,11 @@
+bandit==1.8.6
+bcrypt==4.3.0
+colorama==0.4.6
+markdown-it-py==4.0.0
+mdurl==0.1.2
+pbr==7.0.0
+Pygments==2.19.2
+PyYAML==6.0.2
+rich==14.1.0
+setuptools==80.9.0
+stevedore==5.4.1
